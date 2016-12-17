@@ -1,0 +1,39 @@
+// Font
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:200i,300,300i,400,600');
+$sans-serif: 'Nunito Sans';
+
+// Colors
+$white:  #eeeef0;
+$blue:   #09578e;
+$purple: #34295e;
+$red:    #351431;
+$black:  #081728;
+$gray:   #bcc0c4;
+
+$body:   $white;
+$text:   $black;
+$link:   $blue;
+
+// Panel colors
+
+
+// Form highlighting
+$green:  $blue;
+
+// Media query widths
+$large-width: 768px;
+$small-width: 767px;
+
+
+
+
+// Old
+// $serif: 'Merriweather';
+// $gray:   #eee;
+// $blue-1: #0a3650;
+// $blue-2: #006594;
+// $blue-3: #132a3e;
+// $link-1: #1b97de;
+// $link-2: #ff9200;
+// $font-colors:        $text #fff $text #fff;
+// $background-colors:  $gray $blue-2 $white $blue-1;

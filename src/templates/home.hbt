@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="en">
+  {{> head }}
+  <body>
+    {{> navigation }}
+    <main>
+      {{{ contents }}}
+    </main>
+    {{> footer }}
+    {{> scripts }}
+  </body>
+</html>

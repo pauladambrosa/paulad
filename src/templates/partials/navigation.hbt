@@ -1,0 +1,20 @@
+<header>
+  <nav>
+    <div class="container">
+      <div class="flex-wrapper">
+        <div class="title">
+          <a href="/"><img src="/img/paula.svg"/></a>
+        </div>
+        <div class="links">
+          <ul>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Portfolio</a></li>
+            <li><a href="#">Blog</a></li>
+            <li><a href="#">Resume</a></li>
+            <li><a href="/contact">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </nav>
+</header>
